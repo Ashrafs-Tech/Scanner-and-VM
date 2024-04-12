@@ -1,6 +1,6 @@
 # Vulnerability Scanner Set Up + Virutal Machine
 
-![VL 1](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/54df602d-9d40-4f2b-b468-8623bff93e04)
+
 
 ## Intro
 In this project, I will be doing a Vulnerability Management technical lab in the cloud. I will create a vulnerability management server using OpenVAS inside a virutal machine. Then I will create a 2nd virtual machine in the same network where I will download insecure software.  Then scans will be performed with OpenVAS to detect the vulnerabilites. After which, I will employ remediations. This will alo be done with Microsoft Azure.
