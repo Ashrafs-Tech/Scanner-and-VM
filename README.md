@@ -7,6 +7,8 @@ In this project, I will be doing a Vulnerability Management technical lab in the
 
 To begin, I signed into my Azure account. To prepare the vulnerability management scanner, I need the server virtual machine that has the OpenVas software on it. I went to the Azure portal and entered "OpenVAS". I clicked "Start with a pre-set configuration"
 
+![VL 1](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/54df602d-9d40-4f2b-b468-8623bff93e04)
+
 ![VL 2](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/09dbd0b0-9400-4778-9aec-40e5a2b72091)
 
 
