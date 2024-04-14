@@ -1,11 +1,17 @@
 # Vulnerability Scanner Set Up + Virutal Machine
 
+![image](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/13f87eb2-0594-47bc-89b7-34fffde23999)
 
 
 ## Intro
-In this project, I will be doing a Vulnerability Management technical lab in the cloud. I will create a vulnerability management server using OpenVAS inside a virutal machine. Then I will create a 2nd virtual machine in the same network where I will download insecure software.  Then scans will be performed with OpenVAS to detect the vulnerabilites. After which, I will employ remediations. This will alo be done with Microsoft Azure.
+- In this project, I will be doing a Vulnerability Management technical lab in the cloud.
+- I will create a vulnerability management server using OpenVAS inside a virutal machine.
+- Then I will create a 2nd virtual machine in the same network where I will download insecure software.
+- Then scans will be performed with OpenVAS to detect the vulnerabilites.
 
-To begin, I signed into my Azure account. To prepare the vulnerability management scanner, I need the server virtual machine that has the OpenVas software on it. I went to the Azure portal and entered "OpenVAS". I clicked "Start with a pre-set configuration"
+To begin, I signed into my Azure account:
+- To prepare the vulnerability management scanner, I need the server virtual machine that has the OpenVas software on it.
+- I went to the Azure portal and entered "OpenVAS". I clicked "Start with a pre-set configuration"
 
 ![VL 1](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/54df602d-9d40-4f2b-b468-8623bff93e04)
 
@@ -50,14 +56,15 @@ Doing this will generate the following
 ![VL 7](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/6be35288-c920-492e-9cd7-7a2b0acefeb5)
 
 
-Next I will enter the URL in the computer search bar and enter the username and password that was generated.  The website that open's up is Greenbone.
+- Next I will enter the URL in the computer search bar and enter the username and password that was generated.  The website that open's up is Greenbone.
 
 ![VL 8](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/fcafac91-803d-47b1-aff3-8e318187f0ac)
 
 
-After logging into the Greenbone account, I had to change the generated password because it was too long. 
+- After logging into the Greenbone account, I had to change the generated password because it was too long. 
 
 ![VL 9](https://github.com/Ashrafs-Tech/Scanner-and-VM/assets/166546026/3929edbb-5146-4cb5-937b-27752cc41a33)
 
 
-## Step 1 is done.  The Virtual Machine for the OpenVAS vulnerability management has been created.  
+## Step 1 is done.  
+The Virtual Machine for the OpenVAS vulnerability management has been created.  
